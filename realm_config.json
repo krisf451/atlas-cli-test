@@ -1,9 +1,9 @@
 {
-  "app_id": "application-1-mcpwb",
-  "config_version": 20210101,
-  "name": "Application-1",
-  "location": "US-VA",
-  "provider_region": "aws-us-east-1",
-  "deployment_model": "LOCAL",
-  "environment": "qa"
+    "app_id": "application-1-mcpwb",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL",
+    "environment": "qa"
 }
